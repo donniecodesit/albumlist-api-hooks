@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/albumlist-api-hooks/static/css/main.e3e5b49a.chunk.css",
+    "main.js": "/albumlist-api-hooks/static/js/main.d9adf875.chunk.js",
+    "main.js.map": "/albumlist-api-hooks/static/js/main.d9adf875.chunk.js.map",
+    "runtime-main.js": "/albumlist-api-hooks/static/js/runtime-main.aaf14285.js",
+    "runtime-main.js.map": "/albumlist-api-hooks/static/js/runtime-main.aaf14285.js.map",
+    "static/js/2.93946ed3.chunk.js": "/albumlist-api-hooks/static/js/2.93946ed3.chunk.js",
+    "static/js/2.93946ed3.chunk.js.map": "/albumlist-api-hooks/static/js/2.93946ed3.chunk.js.map",
+    "index.html": "/albumlist-api-hooks/index.html",
+    "static/css/main.e3e5b49a.chunk.css.map": "/albumlist-api-hooks/static/css/main.e3e5b49a.chunk.css.map",
+    "static/js/2.93946ed3.chunk.js.LICENSE.txt": "/albumlist-api-hooks/static/js/2.93946ed3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aaf14285.js",
+    "static/js/2.93946ed3.chunk.js",
+    "static/css/main.e3e5b49a.chunk.css",
+    "static/js/main.d9adf875.chunk.js"
+  ]
+}
